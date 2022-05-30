@@ -28,7 +28,7 @@ You can see the live demo of [MyPortfolio](https://www.thiagodemenezes.com/)
 
 <br />
 
-## 🧪 Tech & Methodologies Applied
+## 🧪 Tech & Methodologies
 
 This project was developed with the following:
 
