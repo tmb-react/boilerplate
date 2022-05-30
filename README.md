@@ -36,4 +36,25 @@ This project was developed with the following:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+
 <br />
+
+## 🚀 Get Started
+### Prerequisites
+Before you begin, ensure you have met the following requirements:
+<!--- These are just example requirements. Add, duplicate or remove as required --->
+* You have installed the latest version of [VSCode](https://code.visualstudio.com/), [VSCode - Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) e [Docker](https://www.docker.com/)
+
+### Clone
+Clone the project and access its folder.
+
+```bash
+$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
+$ cd nlw-06-reactjs
+```
+
+<br />
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
