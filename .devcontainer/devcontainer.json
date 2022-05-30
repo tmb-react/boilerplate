@@ -1,0 +1,15 @@
+{
+    "name": "Portfolio",
+    "dockerFile":"Dockerfile",
+    "appPort": [],
+    "runArgs": ["-u", "node"],
+    "settings": {
+        "workbench.colorTheme": "theme-omni",
+    },
+    "extensions": [
+        "dsznajder.es7-react-js-snippets",
+        "EditorConfig.EditorConfig",
+        "dbaeumer.vscode-eslint",
+        "rocketseat.theme-omni"
+    ]
+}
